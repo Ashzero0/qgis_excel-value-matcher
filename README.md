@@ -7,6 +7,7 @@ Create a new layer that matches the QGIS layer with an XLSX file.
 ```
 git clone https://github.com/Ashzero0/qgis_excel-value-matcher.git
 cd qgis_excel-value-matcher
+```
 
 # Use
 1. Open QGIS.
